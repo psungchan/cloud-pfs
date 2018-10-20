@@ -5,4 +5,5 @@ Team Members:
 
 Nam Pho
 Evan Stanton
+Eric Kim
 Min Hwang
