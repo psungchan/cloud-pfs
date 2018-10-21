@@ -6,6 +6,6 @@ Team Members:
 Nam Pho  
 Evan Stanton  
 Eric Kim  
-Min Hwang
-Vishank Rughwani 
-David Liu 
+Min Hwang  
+Vishank Rughwani  
+David Liu  
