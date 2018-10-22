@@ -9,3 +9,4 @@ Eric Kim
 Min Hwang  
 Vishank Rughwani  
 David Liu  
+Larissa Gao
