@@ -1,4 +1,0 @@
-              -------Sequential Output-------- ---Sequential Input-- --Random--
-              -Per Char- --Block--- -Rewrite-- -Per Char- --Block--- --Seeks---
-Machine    GB M/sec %CPU M/sec %CPU M/sec %CPU M/sec %CPU M/sec %CPU  /sec %CPU
-            0  55.4 47.3 599.9 31.2 175.6 13.2  63.7 50.6 1492.7 52.2 132248 99.1
